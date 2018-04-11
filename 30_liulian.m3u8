@@ -1,0 +1,12 @@
+#EXTM3U
+#EXT-X-VERSION:3
+#EXT-X-ALLOW-CACHE:YES
+#EXT-X-TARGETDURATION:26
+#EXT-X-MEDIA-SEQUENCE:0
+#EXTINF:10.535,
+http://www.aigei.com/file/down/file/pvvdos/dde4b322efc4414382d1becc5aee5759
+#EXTINF:13.513,
+http://www.aigei.com/file/down/file/pvvdos/2fa77096b4244508bf46fd0ae43206ff
+#EXTINF:6.006,
+http://www.aigei.com/file/down/file/pvvdos/764af0d9c8ee416c91ca53d45d1c682a
+#EXT-X-ENDLIST
